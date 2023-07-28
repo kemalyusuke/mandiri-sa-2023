@@ -32,3 +32,6 @@
 </p>
 </br>
 4. Buatlah detail design untuk screen behavior dari mobile apps berdasarkan screen flow diatas.
+Detailed design: https://www.figma.com/file/kvl02uBzFwAv3HpDZ25dbn/Untitled?type=design&node-id=0%3A1&mode=design&t=OOQzGH4HBYvvmNZK-1
+Mockup: https://www.figma.com/proto/kvl02uBzFwAv3HpDZ25dbn/Untitled?type=design&node-id=1-39690&t=DJL0bjl8l7QEm4JB-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A39690&mode=design
+
